@@ -1,0 +1,38 @@
+{
+  "default": {
+    "status": "PASS",
+    "samples": 1440,
+    "maximumAngleError_deg": 0,
+    "maximumPowerError_W": 2.8421709430404007e-13,
+    "maximumMotorError_W": 0,
+    "netEnergy_kWh": [
+      2.3524432512331654,
+      3.011238493318829,
+      3.2201029308662705
+    ]
+  },
+  "cloud": {
+    "status": "PASS",
+    "samples": 1440,
+    "maximumAngleError_deg": 0,
+    "maximumPowerError_W": 4.263256414560601e-14,
+    "maximumMotorError_W": 0,
+    "netEnergy_kWh": [
+      0.6461827079261493,
+      0.6361756441196595,
+      0.6113117072770089
+    ]
+  },
+  "south": {
+    "status": "PASS",
+    "samples": 1440,
+    "maximumAngleError_deg": 0,
+    "maximumPowerError_W": 5.684341886080802e-14,
+    "maximumMotorError_W": 0,
+    "netEnergy_kWh": [
+      0.8452959465361986,
+      0.8471897411091619,
+      0.8340740635629034
+    ]
+  }
+}

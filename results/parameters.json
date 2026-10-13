@@ -1,0 +1,23 @@
+{
+  "latitude": 29.8543,
+  "longitude": 77.888,
+  "utcOffset": 5.5,
+  "date": "2026-03-21",
+  "dt": 60,
+  "weather": "Clear sky",
+  "rating": 400,
+  "tempCoefficient": -0.004,
+  "noct": 45,
+  "ambient": 28,
+  "loss": 0.1,
+  "albedo": 0.2,
+  "fixedTilt": 29.8543,
+  "fixedAzimuth": 180,
+  "maxTilt": 85,
+  "singleLimit": 60,
+  "slewRate": 0.2,
+  "deadband": 1,
+  "commandInterval": 300,
+  "motorWatts": 8,
+  "standbyWatts": 0.05
+}
